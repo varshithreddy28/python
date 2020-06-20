@@ -1,0 +1,7 @@
+this is a demo file
+first we need to set our directory
+next creat a file by touch command
+next open that file using vi command
+next we need to use git add .
+next git commit -m
+next git push
